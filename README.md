@@ -1,2 +1,3 @@
 # hello-world
 1st repository
+I'm learning about BLE and how it's used so that I may use it for the good...not evil...
